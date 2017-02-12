@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Android test suite on Android Phone">
+
+    <test name="BBC Tests">
+        <classes>
+            <!--<class name="TestCommonMethods.CommonMethodsTest"/>-->
+            <!--<class name="TestUI.TestNavigateMenu.NavigateMenuTest"/>-->
+            <class name="TestActionBar.ActionBarTest"/>
+            <!--<class name="TestUI.TestEnglandUI.EnglandTest"/>-->
+            <!--<class name="TestUI.TestEducationUI.EducationTest"/>-->
+            <!--<class name="TestUI.TestHealthUI.HealthTest"/>-->
+            <!--<class name="TestUI.TestMagazineUI.MagazineTest"/>-->
+           <!--<class name="TestUI.TestScotlandUI.ScotlandTest"/>-->
+            <!--<class name="TestUI.TestSportUI.SportTest"/>-->
+            <!--<class name="TestUI.TestUKUI.UKTest"/>-->
+            <!--<class name="TestUI.TestWalesUI.WalesTest"/>-->
+            <!--<class name="TestUI.TestWorldUI.WorldTest"/>-->
+            <!--<class name="TestUI.TestSearchTUI.TestSearchTopics"/>-->
+
+        </classes>
+    </test>
+
+</suite>
